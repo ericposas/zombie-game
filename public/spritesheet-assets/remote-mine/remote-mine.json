@@ -1,0 +1,375 @@
+{"frames": {
+
+"remote-mine0001.png":
+{
+	"frame": {"x":0,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0002.png":
+{
+	"frame": {"x":240,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0003.png":
+{
+	"frame": {"x":480,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0004.png":
+{
+	"frame": {"x":720,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0005.png":
+{
+	"frame": {"x":960,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0006.png":
+{
+	"frame": {"x":1200,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0007.png":
+{
+	"frame": {"x":1440,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0008.png":
+{
+	"frame": {"x":1680,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0009.png":
+{
+	"frame": {"x":0,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0010.png":
+{
+	"frame": {"x":240,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0011.png":
+{
+	"frame": {"x":480,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0012.png":
+{
+	"frame": {"x":720,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0013.png":
+{
+	"frame": {"x":960,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0014.png":
+{
+	"frame": {"x":1200,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0015.png":
+{
+	"frame": {"x":1440,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0016.png":
+{
+	"frame": {"x":1680,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0017.png":
+{
+	"frame": {"x":0,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0018.png":
+{
+	"frame": {"x":240,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0019.png":
+{
+	"frame": {"x":480,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0020.png":
+{
+	"frame": {"x":720,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0021.png":
+{
+	"frame": {"x":960,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0022.png":
+{
+	"frame": {"x":1200,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0023.png":
+{
+	"frame": {"x":1440,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0024.png":
+{
+	"frame": {"x":1680,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0025.png":
+{
+	"frame": {"x":0,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0026.png":
+{
+	"frame": {"x":240,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0027.png":
+{
+	"frame": {"x":480,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0028.png":
+{
+	"frame": {"x":720,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0029.png":
+{
+	"frame": {"x":960,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0030.png":
+{
+	"frame": {"x":1200,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0031.png":
+{
+	"frame": {"x":1440,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0032.png":
+{
+	"frame": {"x":1680,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0033.png":
+{
+	"frame": {"x":0,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0034.png":
+{
+	"frame": {"x":240,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0035.png":
+{
+	"frame": {"x":480,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0036.png":
+{
+	"frame": {"x":720,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0037.png":
+{
+	"frame": {"x":960,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0038.png":
+{
+	"frame": {"x":1200,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0039.png":
+{
+	"frame": {"x":1440,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"remote-mine0040.png":
+{
+	"frame": {"x":1680,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"remote-mine": ["remote-mine0001.png","remote-mine0002.png","remote-mine0003.png","remote-mine0004.png","remote-mine0005.png","remote-mine0006.png","remote-mine0007.png","remote-mine0008.png","remote-mine0009.png","remote-mine0010.png","remote-mine0011.png","remote-mine0012.png","remote-mine0013.png","remote-mine0014.png","remote-mine0015.png","remote-mine0016.png","remote-mine0017.png","remote-mine0018.png","remote-mine0019.png","remote-mine0020.png","remote-mine0021.png","remote-mine0022.png","remote-mine0023.png","remote-mine0024.png","remote-mine0025.png","remote-mine0026.png","remote-mine0027.png","remote-mine0028.png","remote-mine0029.png","remote-mine0030.png","remote-mine0031.png","remote-mine0032.png","remote-mine0033.png","remote-mine0034.png","remote-mine0035.png","remote-mine0036.png","remote-mine0037.png","remote-mine0038.png","remote-mine0039.png","remote-mine0040.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "remote-mine.png",
+	"format": "RGBA8888",
+	"size": {"w":1920,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ee3eed1f2635bfcec45f9398cf886223:57ebdc7f64b0bd011967f5b2df99146d:de7d4fc7330ee37fe01820381c380dd9$"
+}
+}

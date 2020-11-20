@@ -1,0 +1,60 @@
+{"frames": {
+
+"head.png":
+{
+	"frame": {"x":28,"y":0,"w":51,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":77},
+	"sourceSize": {"w":51,"h":77}
+},
+"lower_arm.png":
+{
+	"frame": {"x":26,"y":77,"w":38,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":101},
+	"sourceSize": {"w":38,"h":101}
+},
+"lower_leg.png":
+{
+	"frame": {"x":64,"y":77,"w":32,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":108},
+	"sourceSize": {"w":32,"h":108}
+},
+"torso.png":
+{
+	"frame": {"x":0,"y":185,"w":91,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":151},
+	"sourceSize": {"w":91,"h":151}
+},
+"upper_arm.png":
+{
+	"frame": {"x":0,"y":77,"w":26,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":89},
+	"sourceSize": {"w":26,"h":89}
+},
+"upper_leg.png":
+{
+	"frame": {"x":0,"y":0,"w":28,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":76},
+	"sourceSize": {"w":28,"h":76}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "limbs.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":336},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cce4a677e39af6009a9e1ba304ec865a:905cab3a51af14bc9bd8e6b68139cd72:ab6755e9bb2637cabd8fe7f786ec5b53$"
+}
+}

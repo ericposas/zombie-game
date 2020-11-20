@@ -1,0 +1,239 @@
+{"frames": {
+
+"attackTwo0000.png":
+{
+	"frame": {"x":236,"y":847,"w":124,"h":218},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":16,"w":124,"h":218},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0001.png":
+{
+	"frame": {"x":241,"y":1,"w":120,"h":224},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":10,"w":120,"h":224},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0002.png":
+{
+	"frame": {"x":1,"y":947,"w":119,"h":233},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":1,"w":119,"h":233},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0003.png":
+{
+	"frame": {"x":1,"y":807,"w":138,"h":233},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":1,"w":138,"h":233},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0004.png":
+{
+	"frame": {"x":1,"y":279,"w":136,"h":234},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":0,"w":136,"h":234},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0005.png":
+{
+	"frame": {"x":1,"y":417,"w":131,"h":234},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":0,"w":131,"h":234},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0006.png":
+{
+	"frame": {"x":1,"y":550,"w":129,"h":234},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":0,"w":129,"h":234},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0007.png":
+{
+	"frame": {"x":1,"y":681,"w":124,"h":234},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":0,"w":124,"h":234},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0008.png":
+{
+	"frame": {"x":1,"y":194,"w":83,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":3,"w":83,"h":237},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0009.png":
+{
+	"frame": {"x":237,"y":457,"w":163,"h":227},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":31,"y":11,"w":163,"h":227},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0010.png":
+{
+	"frame": {"x":1,"y":1,"w":191,"h":238},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":191,"h":238},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0011.png":
+{
+	"frame": {"x":1,"y":1068,"w":176,"h":231},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":8,"w":176,"h":231},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0012.png":
+{
+	"frame": {"x":237,"y":287,"w":168,"h":227},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":13,"w":168,"h":227},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0013.png":
+{
+	"frame": {"x":241,"y":123,"w":162,"h":222},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":18,"w":162,"h":222},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0014.png":
+{
+	"frame": {"x":1,"y":1342,"w":157,"h":209},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":31,"w":157,"h":209},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0015.png":
+{
+	"frame": {"x":1,"y":1501,"w":148,"h":202},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":38,"w":148,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0016.png":
+{
+	"frame": {"x":1,"y":1651,"w":138,"h":200},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":40,"w":138,"h":200},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0017.png":
+{
+	"frame": {"x":335,"y":1582,"w":131,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":40,"w":131,"h":200},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0018.png":
+{
+	"frame": {"x":205,"y":1582,"w":128,"h":202},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":38,"w":128,"h":202},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0019.png":
+{
+	"frame": {"x":212,"y":1471,"w":109,"h":205},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":35,"w":109,"h":205},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0020.png":
+{
+	"frame": {"x":212,"y":1373,"w":96,"h":209},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":31,"w":96,"h":209},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0021.png":
+{
+	"frame": {"x":1,"y":1246,"w":94,"h":213},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":27,"w":94,"h":213},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0022.png":
+{
+	"frame": {"x":234,"y":1089,"w":105,"h":217},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":57,"y":23,"w":105,"h":217},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0023.png":
+{
+	"frame": {"x":237,"y":748,"w":97,"h":219},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":19,"w":97,"h":219},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0024.png":
+{
+	"frame": {"x":234,"y":1196,"w":83,"h":215},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":17,"w":83,"h":215},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0025.png":
+{
+	"frame": {"x":216,"y":1281,"w":90,"h":212},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":16,"w":90,"h":212},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0026.png":
+{
+	"frame": {"x":236,"y":973,"w":114,"h":217},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":15,"w":114,"h":217},
+	"sourceSize": {"w":240,"h":240}
+},
+"attackTwo0027.png":
+{
+	"frame": {"x":237,"y":622,"w":124,"h":220},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":15,"w":124,"h":220},
+	"sourceSize": {"w":240,"h":240}
+}},
+"animations": {
+	"attackTwo": ["attackTwo0000.png","attackTwo0001.png","attackTwo0002.png","attackTwo0003.png","attackTwo0004.png","attackTwo0005.png","attackTwo0006.png","attackTwo0007.png","attackTwo0008.png","attackTwo0009.png","attackTwo0010.png","attackTwo0011.png","attackTwo0012.png","attackTwo0013.png","attackTwo0014.png","attackTwo0015.png","attackTwo0016.png","attackTwo0017.png","attackTwo0018.png","attackTwo0019.png","attackTwo0020.png","attackTwo0021.png","attackTwo0022.png","attackTwo0023.png","attackTwo0024.png","attackTwo0025.png","attackTwo0026.png","attackTwo0027.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "attack2.png",
+	"format": "RGBA8888",
+	"size": {"w":467,"h":1790},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4cb27cc38429862a5faf3eaf6039732f:6b028f94fa134a089b7b94a0064c8869:f1acd2b21b4eee11c32151e8a40914a0$"
+}
+}

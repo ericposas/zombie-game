@@ -1,0 +1,279 @@
+{"frames": {
+
+"grenade_throw_pistol_0000.png":
+{
+	"frame": {"x":0,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0001.png":
+{
+	"frame": {"x":240,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0002.png":
+{
+	"frame": {"x":480,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0003.png":
+{
+	"frame": {"x":720,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0004.png":
+{
+	"frame": {"x":960,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0005.png":
+{
+	"frame": {"x":1200,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0006.png":
+{
+	"frame": {"x":1440,"y":0,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0007.png":
+{
+	"frame": {"x":0,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0008.png":
+{
+	"frame": {"x":240,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0009.png":
+{
+	"frame": {"x":480,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0010.png":
+{
+	"frame": {"x":720,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0011.png":
+{
+	"frame": {"x":960,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0012.png":
+{
+	"frame": {"x":1200,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0013.png":
+{
+	"frame": {"x":1440,"y":240,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0014.png":
+{
+	"frame": {"x":0,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0015.png":
+{
+	"frame": {"x":240,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0016.png":
+{
+	"frame": {"x":480,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0017.png":
+{
+	"frame": {"x":720,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0018.png":
+{
+	"frame": {"x":960,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0019.png":
+{
+	"frame": {"x":1200,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0020.png":
+{
+	"frame": {"x":1440,"y":480,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0021.png":
+{
+	"frame": {"x":0,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0022.png":
+{
+	"frame": {"x":240,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0023.png":
+{
+	"frame": {"x":480,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0024.png":
+{
+	"frame": {"x":720,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0025.png":
+{
+	"frame": {"x":960,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0026.png":
+{
+	"frame": {"x":1200,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0027.png":
+{
+	"frame": {"x":1440,"y":720,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0028.png":
+{
+	"frame": {"x":0,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0029.png":
+{
+	"frame": {"x":240,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0030.png":
+{
+	"frame": {"x":480,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0031.png":
+{
+	"frame": {"x":720,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"grenade_throw_pistol_0032.png":
+{
+	"frame": {"x":960,"y":960,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+}},
+"animations": {
+	"grenade_throw_pistol": ["grenade_throw_pistol_0000.png","grenade_throw_pistol_0001.png","grenade_throw_pistol_0002.png","grenade_throw_pistol_0003.png","grenade_throw_pistol_0004.png","grenade_throw_pistol_0005.png","grenade_throw_pistol_0006.png","grenade_throw_pistol_0007.png","grenade_throw_pistol_0008.png","grenade_throw_pistol_0009.png","grenade_throw_pistol_0010.png","grenade_throw_pistol_0011.png","grenade_throw_pistol_0012.png","grenade_throw_pistol_0013.png","grenade_throw_pistol_0014.png","grenade_throw_pistol_0015.png","grenade_throw_pistol_0016.png","grenade_throw_pistol_0017.png","grenade_throw_pistol_0018.png","grenade_throw_pistol_0019.png","grenade_throw_pistol_0020.png","grenade_throw_pistol_0021.png","grenade_throw_pistol_0022.png","grenade_throw_pistol_0023.png","grenade_throw_pistol_0024.png","grenade_throw_pistol_0025.png","grenade_throw_pistol_0026.png","grenade_throw_pistol_0027.png","grenade_throw_pistol_0028.png","grenade_throw_pistol_0029.png","grenade_throw_pistol_0030.png","grenade_throw_pistol_0031.png","grenade_throw_pistol_0032.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grenade_throw_pistol.png",
+	"format": "RGBA8888",
+	"size": {"w":1680,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:af54c2ae88ba9a656f2b64f10eb14b22:2cb317c16daf3afa7f8efd9e0ee98d4b:a39e8954228717c7df262f0981831317$"
+}
+}

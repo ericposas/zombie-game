@@ -1,0 +1,64 @@
+{"frames": {
+
+"bullet-impact1.png":
+{
+	"frame": {"x":0,"y":0,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"bullet-impact2.png":
+{
+	"frame": {"x":40,"y":0,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ground-blood-spatter1.png":
+{
+	"frame": {"x":80,"y":0,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ground-blood-spatter2.png":
+{
+	"frame": {"x":120,"y":0,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ground-blood-spatter3.png":
+{
+	"frame": {"x":160,"y":0,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"ground-blood-spatter4.png":
+{
+	"frame": {"x":200,"y":0,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+}},
+"animations": {
+	"bullet-impact": ["bullet-impact1.png","bullet-impact2.png"],
+	"ground-blood-spatter": ["ground-blood-spatter1.png","ground-blood-spatter2.png","ground-blood-spatter3.png","ground-blood-spatter4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ground_fx.png",
+	"format": "RGBA8888",
+	"size": {"w":240,"h":40},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a691d5c4abe7dbe627eda0e9c3eda5b0:abd2e8a3f2359fdcd19c9ddf912f98bc:a164f381553e6eb8a0671d039e01d6fd$"
+}
+}

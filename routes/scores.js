@@ -6,12 +6,15 @@ const Score = mongoose.model('Score', {
     unique: true,
     type: String
   },
-  score: Number
+  score: Number,
+  time : { type : Date, default: Date.now }
 })
 
 /* Methods */
 const getScores = (req, res, next) => {
-  Score.find()
+  Score
+  .find()
+  .limit(100)
   .catch(err => {
     console.log(err)
   })
@@ -22,10 +25,13 @@ const getScores = (req, res, next) => {
 }
 
 const submitNewScore = (req, res, next) => {
-  // console.log(req)
+  let {
+    name,
+    score: _score
+  } = req.body
   const score = new Score({
-    name: req.body.name,
-    score: req.body.score //Math.floor( Math.random() * 100 )
+    name: name,
+    score: _score ? _score : Math.floor( Math.random() * 100 )
   })
   let isErr = false
   let errType = ''

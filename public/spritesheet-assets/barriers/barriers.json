@@ -1,0 +1,36 @@
+{"frames": {
+
+"metalBarrier.png":
+{
+	"frame": {"x":0,"y":0,"w":200,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":400},
+	"sourceSize": {"w":200,"h":400}
+},
+"stoneBarrier.png":
+{
+	"frame": {"x":0,"y":400,"w":200,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":400},
+	"sourceSize": {"w":200,"h":400}
+},
+"woodenBarrier.png":
+{
+	"frame": {"x":0,"y":800,"w":200,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":400},
+	"sourceSize": {"w":200,"h":400}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "barriers.png",
+	"format": "RGBA8888",
+	"size": {"w":200,"h":1200},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7e798a7f496e8bbabf3ed02773a95f6c:a6611a56bf0ac1908e5aa47a7b5bf1fe:016c183ca6c3413439ef730e26039ab2$"
+}
+}

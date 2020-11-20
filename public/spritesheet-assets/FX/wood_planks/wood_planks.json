@@ -1,0 +1,36 @@
+{"frames": {
+
+"000.png":
+{
+	"frame": {"x":0,"y":0,"w":85,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":36},
+	"sourceSize": {"w":85,"h":36}
+},
+"001.png":
+{
+	"frame": {"x":0,"y":36,"w":93,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":14},
+	"sourceSize": {"w":93,"h":14}
+},
+"002.png":
+{
+	"frame": {"x":0,"y":50,"w":104,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":19},
+	"sourceSize": {"w":104,"h":19}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "wood_planks.png",
+	"format": "RGBA8888",
+	"size": {"w":104,"h":69},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:26da00b3d8c707b5d49b85df35a8d7ed:9545d11b31f46f6bb10958376b894310:aeaf087a2b4ae8dd4644ff064ba48159$"
+}
+}
