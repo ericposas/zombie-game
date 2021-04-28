@@ -1,5 +1,6 @@
-# ZOMBINATOR
+# ZOMBIE GAME
 # MatterJS powered game Redux State, React UI
+- A simple zombie shooter game I worked on to keep my sanity during the covid lockdown
 
 ![screenshot](https://github.com/ericposas/Zombie-Chamber-with-simple-game-scores/blob/main/zombie-snip1.PNG)
 
