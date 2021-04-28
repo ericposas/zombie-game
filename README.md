@@ -8,7 +8,7 @@
 - cd into project folder
 - run `npm install` to install deps
 - run `npm start`
-- navigate to localhost:3000
+- navigate to localhost:3000 to play
 
 ## Notes
 - Score currently do not work (moved .env file)
