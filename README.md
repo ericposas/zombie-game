@@ -5,6 +5,7 @@
 https://user-images.githubusercontent.com/7672638/116492447-e3ad1f80-a861-11eb-96b1-479b5a84aa05.mp4
 
 ## Tech stack
+- Matter JS (physics simulation)
 - PixiJS
 - React JS
 - Greensock
