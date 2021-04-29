@@ -11,7 +11,8 @@
 ![screenshot](https://github.com/ericposas/Zombie-Chamber-with-simple-game-scores/blob/main/zombie-snip1.PNG)
 
 - sample gameplay 1: https://drive.google.com/file/d/1Q99_wQeJE1OOqC_uUqmqSXRbYGlhGJoa/view
-- 
+- sample gameplay 2: https://drive.google.com/file/d/19ZaKxkWfMZFyEFEHBhYjYq4wmIFtPreL/view
+- sample gameplay 3 (smg): https://drive.google.com/file/d/1VWRfkuBCncjqL_3h77ToE0vRnjhIHpM3/view
 
 ## Run locally
 - Download .zip
