@@ -4,6 +4,9 @@
 
 ![screenshot](https://github.com/ericposas/Zombie-Chamber-with-simple-game-scores/blob/main/zombie-snip1.PNG)
 
+- sample gameplay 1: https://drive.google.com/file/d/1Q99_wQeJE1OOqC_uUqmqSXRbYGlhGJoa/view
+- 
+
 ## Run locally
 - Download .zip
 - cd into project folder
